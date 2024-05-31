@@ -1,0 +1,56 @@
+[
+  {
+   " author": "Jordan Moore",
+   "name":"Story Book",
+    "title": " Curious Minds",
+    "img": "/book-1.jpg",
+    "price":0,
+    "category":"free",
+    "id" : "1"
+  },
+  {
+    "author": "James Clear",
+    "name":"Story Book",
+    "title": "Atomic Habits",
+    "img": "/book-2.jpg",
+    "price":0,
+    "category":"free",
+    "id": "2"
+  },
+  {
+    "author": "Stephen King",
+    "name":"Story Book",
+    "title":  "Fairy Tale",
+    "img": "/book-3.jpg",
+    "price":0,
+    "category":"free",
+    "id": "3"
+  },
+  {
+    " author": "Jordan Moore",
+    "name":"Story Book",
+     "title": "Interesting Facts",
+     "img": "/book-1.jpg",
+     "price":0,
+     "category":"free",
+     "id" : "4"
+   },
+   {
+     "author": "James Clear",
+     "name":"Story Book",
+     "title": "Atomic Habits",
+     "img": "/book-2.jpg",
+     "price":0,
+     "category":"free",
+     "id": "5"
+   },
+   {
+     "author": "Stephen King",
+     "name":"Story Book",
+     "title":  "Fairy Tale",
+     "img": "/book-3.jpg",
+     "price":0,
+     "category":"free",
+     "id": "6"
+   }
+]
